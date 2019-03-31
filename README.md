@@ -21,9 +21,9 @@ git clone https://github.com/DonghyungKo/sentiment_dictionary.git
 
 > 사전 생성에 필요한 데이터는 [lucy_park (e9t)](https://github.com/e9t/nsmc)님이 공유 해주신 데이터를 활용하였습니다.
 
-### **링크**
-- **[movie_sentiment_dictionary.csv](https://github.com/DonghyungKo/sentiment_dictionary/blob/master/movie/movie_sentiment_dictionary.csv)**
-- **[movie_sentiment_dictionary.json](https://github.com/DonghyungKo/sentiment_dictionary/blob/master/movie/movie_sentiment_dictionary.json)**
+### **다운로드 링크**
+- **[영화_감성사전.csv](https://drive.google.com/file/d/1jaZoEWFeGIKhVbH_cPRciciLkSesz1El/view?usp=sharing)**
+- **[영화_감성사전.json](https://drive.google.com/open?id=1pRDX88r2T9y2Pl0GdFpLassFi3IlnVN0)**
 
 
 ### Quick View
